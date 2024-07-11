@@ -325,4 +325,4 @@ def salir():
     os.system('cls')
     print("*")
     time.sleep(0.1)
-    exit()
+    exit()# prueba4
